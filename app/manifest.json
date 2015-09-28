@@ -21,5 +21,8 @@
     },
     "default_title": "hello world",
     "default_popup": "popup.html"
-  }
+  },
+  "permissions": [
+    "activeTab"
+  ]
 }
